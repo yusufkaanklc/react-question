@@ -1,0 +1,39 @@
+.question-box {
+  margin: 3em 0;
+  display: flex;
+}
+.question-content {
+  width: 50%;
+}
+.question-counter {
+  font-size: 15px;
+  font-weight: bold;
+}
+.question-title {
+  font-size: 25px;
+  font-weight: bold;
+}
+.choice-grid {
+  margin-top: 2em;
+  font-size: 20px;
+  font-weight: bold;
+}
+.choice-col {
+  border: 1px solid rgb(168, 168, 168);
+  border-radius: 10px;
+  padding: 0.7em;
+  margin: 0.5em 0.5em;
+}
+.choice-col span:first-child {
+  margin-right: 2em;
+}
+.progress-bar {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+}
+.circular-bar {
+  margin-top: 1em;
+  width: 40% !important;
+  font-weight: bold;
+}

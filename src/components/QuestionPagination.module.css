@@ -1,0 +1,21 @@
+.pagination-box {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  overflow: hidden;
+}
+.pagination-box Button {
+  border: 1px solid rgb(107, 107, 107);
+  font-size: 17px;
+  font-weight: bold;
+  background-color: transparent;
+  padding: 0.5em 2em;
+}
+.pagination {
+  border: 1px solid rgb(107, 107, 107);
+  font-size: 17px;
+  font-weight: bold;
+  padding: 0.4em 1em;
+  border-radius: 5px;
+}

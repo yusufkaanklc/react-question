@@ -1,0 +1,85 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "title":"What is hoisting in JavaScript and how does it work?",
+        "choice1":"HTML",
+        "choice2":"CSS",
+        "choice3":"JavaScript",
+        "choice4":"Bootstrap"
+      },
+      {
+        "id": 2,
+        "title":"What does RESTful API mean and what is its purpose?",
+        "choice1":"Express.js",
+        "choice2":"Node.js",
+        "choice3":"Multer",
+        "choice4":"Laravel"
+      },
+      {
+        "id": 3,
+        "title":"Question: What is the purpose of the this keyword in JavaScript?",
+        "choice1":"React",
+        "choice2":"Angular",
+        "choice3":"Vue",
+        "choice4":"TypeScript"
+      },
+      {
+        "id": 4,
+        "title":"Question: What is the purpose of the this keyword in JavaScript?",
+        "choice1":"React",
+        "choice2":"Angular",
+        "choice3":"Vue",
+        "choice4":"TypeScript"
+      },
+      {
+        "id": 5,
+        "title":"Question: What is the purpose of the this keyword in JavaScript?",
+        "choice1":"React",
+        "choice2":"Angular",
+        "choice3":"Vue",
+        "choice4":"TypeScript"
+      },
+      {
+        "id": 6,
+        "title":"Question: What is the purpose of the this keyword in JavaScript?",
+        "choice1":"React",
+        "choice2":"Angular",
+        "choice3":"Vue",
+        "choice4":"TypeScript"
+      },
+      {
+        "id": 7,
+        "title":"Question: What is the purpose of the this keyword in JavaScript?",
+        "choice1":"React",
+        "choice2":"Angular",
+        "choice3":"Vue",
+        "choice4":"TypeScript"
+      },
+      {
+        "id": 8,
+        "title":"Question: What is the purpose of the this keyword in JavaScript?",
+        "choice1":"React",
+        "choice2":"Angular",
+        "choice3":"Vue",
+        "choice4":"TypeScript"
+      },
+      {
+        "id": 9,
+        "title":"Question: What is the purpose of the this keyword in JavaScript?",
+        "choice1":"React",
+        "choice2":"Angular",
+        "choice3":"Vue",
+        "choice4":"TypeScript"
+      },
+      {
+        "id": 10,
+        "title":"Question: What is the purpose of the this keyword in JavaScript?",
+        "choice1":"React",
+        "choice2":"Angular",
+        "choice3":"Vue",
+        "choice4":"TypeScript"
+      }
+
+    ]
+  }
